@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1 {
+    color: orange;
+    letter-spacing: 17px;
+    word-spacing: 5px;
+}
+
+.p2 {
+    color: grey;
+    letter-spacing: 17px;
+    text-decoration: underline;
+}
+
+.p3 {
+    text-align: center;
+    color: #ff3366;
+    word-spacing: 10px;
+}
+
+.p4 {
+    text-align: right;
+    color: red;
+    letter-spacing: 6px;
+    text-transform: lowercase;
+}
+
+.p5 {
+    text-align: center;
+    color: green;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    text-decoration: underline
+}
+
+
+
+
+
+
+
